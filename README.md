@@ -24,3 +24,6 @@ API: OpenWeatherMap
  or any other weather API
 
 Deployment: (Optional — e.g., Netlify, Vercel, Heroku)
+<img width="934" height="551" alt="image" src="https://github.com/user-attachments/assets/e7fce6ce-f69e-43fe-95ae-b8cd4867c725" />
+<img width="940" height="446" alt="image" src="https://github.com/user-attachments/assets/5894153e-c5d0-4350-8e2e-6e732dfe2525" />
+
